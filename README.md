@@ -54,7 +54,7 @@ Pretrained Model: Stored as RidgeModel.pkl.
 
 🔗 Live Deployment
 
-The application is deployed on Render. Try it out here: https://bangaluru-price-predictor-mhp.onrender.com
+The application is deployed on Render. Try it out here: https://bangaluru-house-price-predictor-ss.onrender.com
 
 🤝 Contribution
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License – free to use and modify.
 
 📬 Contact
 
-👤 Siddhartha Singh 📧 10mastergaming10@gmail.com 🔗 [https://www.linkedin.com/in/parth-pandey-3442a9256/](https://www.linkedin.com/in/siddhartha1010/)
+👤 Siddhartha Singh 📧 10mastergaming10@gmail.com 🔗 https://www.linkedin.com/in/siddhartha1010/
