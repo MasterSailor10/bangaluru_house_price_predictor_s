@@ -1,6 +1,6 @@
 🏡 Bengaluru House Price Predictor
 
-🔗 Repository: MasterSailor10/bangaluru_price_predictor_p
+🔗 Repository: MasterSailor10/bangaluru_price_predictor_s
 
 🚀 Overview
 
@@ -10,7 +10,7 @@ The Bengaluru House Price Predictor is a machine learning-powered web applicatio
 
 📂 Project Structure
 
-bangaluru_price_predictor_p/ │── templates/ # HTML templates for the web app
+bangaluru_price_predictor_s/ │── templates/ # HTML templates for the web app
 │── app.py # Flask web application
 │── Cleaned_data.csv # Preprocessed dataset
 │── RidgeModel.pkl # Trained ML model
@@ -22,7 +22,7 @@ bangaluru_price_predictor_p/ │── templates/ # HTML templates for the web a
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/bangaluru_price_predictor_p.git cd bangaluru_price_predictor_p
+git clone https://github.com/MasterSailor10/bangaluru_price_predictor_s.git cd bangaluru_price_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
